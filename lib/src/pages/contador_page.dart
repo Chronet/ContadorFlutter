@@ -16,7 +16,7 @@ class _ContadorPageState extends State<ContadorPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Mi primer AppBar'),
+        title: const Text('Mi primer contador en flutter'),
         centerTitle: true,        
       ),
       body: Center(
