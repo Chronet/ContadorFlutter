@@ -21,6 +21,7 @@ class HomePage extends StatelessWidget {
           ],
         )
       ),
+      // floatingActionButtonLocation: FloatingActionButtonLocation.centerDocked,
       floatingActionButton: FloatingActionButton(
         child: Icon( Icons.add ),
         onPressed: () {
