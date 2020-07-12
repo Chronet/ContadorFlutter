@@ -1,6 +1,6 @@
 # contador
 
-A new Flutter project.
+A new Flutter project with a counter in course of flutter with Hernando Herrera.
 
 ## Getting Started
 
