@@ -28,7 +28,6 @@ class _ContadorPageState extends State<ContadorPage> {
           ],
         )
       ),
-      // floatingActionButtonLocation: FloatingActionButtonLocation.centerDocked,
       floatingActionButton: _crearBotones(),
     );
   }
